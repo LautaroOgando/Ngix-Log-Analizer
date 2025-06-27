@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-The goal of this project is to create a pythone script that reads an Nginx log file and provides specific information about the requests.
+The goal of this project is to create a python script that reads an Nginx log file and provides specific information about the requests.
 
 ## Log Analysis Highlights
 
